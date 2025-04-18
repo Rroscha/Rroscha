@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rroscha
-- 👀 I’m interested in program analysis and AI
+- 👀 I’m interested in program analysis
 - 🌱 I’m currently a graduate student in ShanghaiTech University
-- 💞️ I’m looking to collaborate on malware detection
+- 💞️ I’m looking to collaborate on code similarity analysis
 - 📫 I'm under the supervision of Prof. Tang, Prof. Zhang (, and Prof. Chen).
 
 <!---
